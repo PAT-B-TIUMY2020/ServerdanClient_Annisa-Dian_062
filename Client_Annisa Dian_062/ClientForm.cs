@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Server_Annisa_Dian_062
+namespace Client_Annisa_Dian_062
 {
-    public partial class Form1 : Form
+    public partial class ClientForm : Form
     {
-        public Form1()
+        public ClientForm()
         {
             InitializeComponent();
         }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Annisa Dian_062", "Server_Annisa Dian_062\Server_Annisa Dian_062.csproj", "{AC324B3A-FD2F-46BF-A6C6-34BB7B09778F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Annisa Dian_062", "Client_Annisa Dian_062\Client_Annisa Dian_062.csproj", "{9B04564A-7EB4-447C-9046-80223AFD1865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC324B3A-FD2F-46BF-A6C6-34BB7B09778F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC324B3A-FD2F-46BF-A6C6-34BB7B09778F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC324B3A-FD2F-46BF-A6C6-34BB7B09778F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B04564A-7EB4-447C-9046-80223AFD1865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B04564A-7EB4-447C-9046-80223AFD1865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B04564A-7EB4-447C-9046-80223AFD1865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B04564A-7EB4-447C-9046-80223AFD1865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
